@@ -8,7 +8,9 @@
 
 ### 🛠️ Мой стек технологий
 * <strong>Frontend</strong>: Blazor, React, TypeScript, TailwindCSS, Vite.
-* <strong>Backend</strong>: C#, ASP.NET Core, EF Core, PostgreSQL, MongoDB, LiteDB, Docker/Podman.
+* <strong>Backend</strong>: C#, ASP.NET Core, REST API, EF Core.
+* <strong>Database</strong>: PostgreSQL, MongoDB, SQLite, LiteDB.
+* <strong>Tools</strong>: Rider, VS Code, Fleet, Git, Trello, GitHub Actions, Docker/Podman
 
 ### 🎓 Образование
 Бийский Государственный Колледж (среднее профессиональное с отличием).</br>
