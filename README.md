@@ -7,10 +7,10 @@
 > Счастлив тот человек, кто нашёл свое дело в этом мире, потому что он ни одного дня в жизни не будет работать </br> © "Ford v Ferrari"
 
 ### 🛠️ Мой стек технологий
-* <strong>Frontend</strong>: Blazor, React, TypeScript, TailwindCSS, Vite.
-* <strong>Backend</strong>: C#, ASP.NET Core, REST API, EF Core, xUnit.
+* <strong>Frontend</strong>: Blazor, React, React Router, React Hook Form, Zustand, TypeScript, TailwindCSS, Vite.
+* <strong>Backend</strong>: C#, ASP.NET Core, REST API, EF Core, xUnit, Moq.
 * <strong>Database</strong>: PostgreSQL, MongoDB, SQLite, LiteDB.
-* <strong>Tools</strong>: Rider, VS Code, Fleet, Git, Trello, GitHub Actions, Docker/Podman.
+* <strong>Tools</strong>: Rider, VS Code, Fleet, Git, Make, Trello, GitHub Actions, Docker/Podman.
 
 ### 🎓 Образование
 Бийский Государственный Колледж (среднее профессиональное с отличием).</br>
@@ -28,30 +28,33 @@
 
 ### 📦 Мои проекты (от новых к старым)
 
-#### [GameReviewLib](https://github.com/Neitralov/GameReviewLib) — библиотека для локального хранения обзоров на игры.
+#### [InklessCMS](https://github.com/Neitralov/InklessCMS) - Headless CMS для создания и управления блогами.
+###### TypeScript, C#, React + React Router + React Hook Form, Zustand, TailwindCSS, Vite, ASP.NET Core, EF Core, PostgreSQL, Docker/Podman, xUnit, Moq
+
+#### [GameReviewLib](https://github.com/Neitralov/GameReviewLib) — Библиотека для локального хранения обзоров на игры.
 ###### TypeScript, С#, React + React Router, TailwindCSS, Vite, ASP.NET Core, LiteDB, Docker/Podman, xUnit, Moq
 ---
 
-#### [CatStore](https://github.com/Neitralov/CatStore) — электронный магазин по продаже виртуальных котиков.
+#### [CatStore](https://github.com/Neitralov/CatStore) — Электронный магазин по продаже виртуальных котиков.
 ###### С#, Nginx, ASP.NET Core (Blazor WASM), EF Core, PostgreSQL, TailwindCSS, Docker/Podman
 
 ---
 
-#### [MovieReviewLib](https://github.com/Neitralov/MovieReviewLib) — библиотека для локального хранения обзоров на фильмы.
+#### [MovieReviewLib](https://github.com/Neitralov/MovieReviewLib) — Библиотека для локального хранения обзоров на фильмы.
 ###### C#, ASP.NET Core (Blazor Server), EF Core, SQLite, TailwindCSS, Docker/Podman
 
 ---
 
-#### [ScheduleBot](https://github.com/Neitralov/ScheduleBot.WebApp) — телеграм бот для доставки расписания колледжа непосредственно в мессенджеры студентов.
+#### [ScheduleBot](https://github.com/Neitralov/ScheduleBot.WebApp) — Телеграм бот для доставки расписания колледжа непосредственно в мессенджеры студентов.
 ###### C#, Telegram.Bot, ASP.NET Core (Razor Pages), EF Core, SQLite, Docker/Podman
 
 ---
 
-#### [CosmicBustle](https://osins-game-lab.itch.io/cosmic-bustle) — браузерная игра, космическая аркада.
+#### [CosmicBustle](https://osins-game-lab.itch.io/cosmic-bustle) — Браузерная игра, космическая аркада.
 ###### C#, Unity
 
 ---
 
-#### [Mineseeker](https://osins-game-lab.itch.io/mineseeker) — моя реализация известной игры "сапер".
+#### [Mineseeker](https://osins-game-lab.itch.io/mineseeker) — Моя реализация известной игры "сапер".
 ###### C#, Unity
 
