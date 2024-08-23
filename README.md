@@ -29,10 +29,10 @@
 ### 📦 Мои проекты (от новых к старым)
 
 #### [InklessCMS](https://github.com/Neitralov/InklessCMS) - Headless CMS для создания и управления блогами.
-###### TypeScript, C#, React + React Router + React Hook Form, Zustand, TailwindCSS, Vite, ASP.NET Core, EF Core, PostgreSQL, Docker/Podman, xUnit, Moq
+###### TypeScript, React + React Router + React Hook Form, Zustand, TailwindCSS, Vite, C#, ASP.NET Core, EF Core, PostgreSQL, Docker/Podman, xUnit, Moq
 
 #### [GameReviewLib](https://github.com/Neitralov/GameReviewLib) — Библиотека для локального хранения обзоров на игры.
-###### TypeScript, С#, React + React Router, TailwindCSS, Vite, ASP.NET Core, LiteDB, Docker/Podman, xUnit, Moq
+###### TypeScript, React + React Router, TailwindCSS, Vite, С#, ASP.NET Core, LiteDB, Docker/Podman, xUnit, Moq
 ---
 
 #### [CatStore](https://github.com/Neitralov/CatStore) — Электронный магазин по продаже виртуальных котиков.
